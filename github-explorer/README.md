@@ -1,9 +1,12 @@
 # Github Explore
 
-Projeto onde o usuario pesquisa por um repositorio do Github e a partir dai serão retornados os commits, pull requests e issues desse repositorio.
+Com requisições API, a aplicação consiste em pesquisar e listar os repositórios e exibir detalhes de cada um.
 
 ## Tecnologias
-- Reactjs
+- ReactJs
+- React Router
+- React Icons
+- Axios
 
 ## 
 - Para instalar as dependencias utilize o terminal com o comando `yarn`
